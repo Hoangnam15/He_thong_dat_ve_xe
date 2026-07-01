@@ -1,7 +1,7 @@
 
-# He_thong_dat_ve_xe# 🎬 Hệ Thống Đặt Vé Xe
+# He_thong_dat_ve_xem_phim# 🎬 Hệ Thống Đặt Vé Xem Phim
 
-Dự án cá nhân mô phỏng hệ thống đặt vé xe sử dụng 4 cấu trúc dữ liệu thủ công (không dùng STL): BST, Priority Queue, Stack, Linked List — viết bằng C++17.
+Dự án cá nhân mô phỏng hệ thống đặt vé rạp chiếu phim sử dụng 4 cấu trúc dữ liệu thủ công (không dùng STL): BST, Priority Queue, Stack, Linked List — viết bằng C++17.
 
 ---
 
